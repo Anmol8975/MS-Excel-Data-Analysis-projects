@@ -4,7 +4,6 @@ I specialize in Data Analysis using Microsoft Excel, with hands-on experience in
 Data Cleaning & Preparation
 Handling missing values, removing duplicates, formatting data, and organizing datasets for analysis.
 
-
 Data Analysis Techniques
 Using formulas, functions, pivot tables, conditional statements, and data summarization methods to explore and understand data.
 
