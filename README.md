@@ -10,31 +10,31 @@ My focus is on understanding real-world data problems and using structured metho
 
 ✔ Microsoft Excel Skills
 
-*Data Cleaning & Preprocessing
+* Data Cleaning & Preprocessing
 
-*Working with large datasets
+* Working with large datasets
 
-*Pivot Tables & Pivot Charts
+* Pivot Tables & Pivot Charts
 
-*Dashboard Creation
+* Dashboard Creation
 
-*Conditional Formatting
+* Conditional Formatting
 
-*Lookup Functions: VLOOKUP, XLOOKUP, INDEX-MATCH
+* Lookup Functions: VLOOKUP, XLOOKUP, INDEX-MATCH
 
-*Logical & Text Functions: IF, IFS, TEXT, DATE, etc.
+* Logical & Text Functions: IF, IFS, TEXT, DATE, etc.
 
-*Data Visualization & Reporting
+* Data Visualization & Reporting
 
 ✔ Other Skills
 
-*Problem Solving
+* Problem Solving
 
-*Critical Thinking
+* Critical Thinking
 
-*Basic Statistical Understanding
+* Basic Statistical Understanding
 
-*Clear and Insightful Reporting
+* Clear and Insightful Reporting
 
 
 
