@@ -43,6 +43,7 @@ My focus is on understanding real-world data problems and using structured metho
 
 
 📊 Excel Data Analysis Project Portfolio  – Zepto Inventory Analysis
+
 📌 Project Overview
 
 This project demonstrates my ability to analyze real-world retail data using Microsoft Excel.
